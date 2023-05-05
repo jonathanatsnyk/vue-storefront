@@ -28,6 +28,6 @@ RUN cd packages/docs \
     && yarn install --frozen-lockfile \
     && yarn build
 
-FROM nginx
+FROM nginx:1-bullseye
 
 COPY --from=build /var/www/packages/docs/.vuepress/dist /usr/share/nginx/html/v2
