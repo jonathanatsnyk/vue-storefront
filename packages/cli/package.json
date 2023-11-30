@@ -28,11 +28,11 @@
     "inquirer": "^8.2.4",
     "isomorphic-git": "^1.21.0",
     "node-fetch-native": "^0.1.8",
-    "oclif": "^3.2.22",
+    "oclif": "^3.4.0",
     "os-locale": "^5.0.0",
     "picocolors": "^1.0.0",
     "reasonable-filename": "^1.2.0",
-    "rimraf": "^3.0.2"
+    "rimraf": "^4.0.0"
   },
   "devDependencies": {
     "@types/i18next-fs-backend": "^1.1.2",
