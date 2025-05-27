@@ -21,7 +21,7 @@
     "@oclif/plugin-update": "^3.0.4",
     "@oclif/plugin-warn-if-update-available": "^2.0.10",
     "@vue-storefront/theme-utilities": "^0.2.0",
-    "execa": "^5.1.1",
+    "execa": "^9.6.0",
     "globby": "11.1.0",
     "i18next": "^22.0.3",
     "i18next-fs-backend": "^2.0.0",
