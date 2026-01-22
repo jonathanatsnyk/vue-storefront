@@ -18,7 +18,7 @@
     "chalk": "^2.4.2",
     "chokidar": "^3.3.1",
     "consola": "^2.10.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.23",
     "nuxt-purgecss": "^1.0.0"
   },
   "devDependencies": {
